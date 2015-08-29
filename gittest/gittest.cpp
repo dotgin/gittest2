@@ -12,6 +12,12 @@ std::string fet2()
 }
 
 
+std::string feature1Logic()
+{
+	return "feature_1";
+}
+
+
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf( "%s hello %d world", fet2().c_str(), argc );
