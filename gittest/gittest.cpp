@@ -20,7 +20,7 @@ std::string feature1Logic()
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf( "%s hello %d world", fet2().c_str(), argc );
+	printf( "%s SPAERRRRTTTAAAAAAAhello %d world", fet2().c_str(), argc );
 	return 0;
 }
 
